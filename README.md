@@ -24,7 +24,9 @@ It installs Docker, pulls the official Blockcast node, initializes it, and displ
 - Sudo privileges  
 - Internet connection  
 - Create an account on [**Blockcast**](https://app.blockcast.network?referral-code=2xxxge)
-
+-Connect Your X account
+-Connect Your Discord
+-Connect Your Solana wallet
 ---
 
 ### 🧠 What This Script Does (Step by Step)
