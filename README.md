@@ -49,10 +49,10 @@ It installs Docker, pulls the official Blockcast node, initializes it, and displ
 📌 **Just copy and paste this in your terminal and you're done:**
 
 ```bash
-git clone https://github.com/0xTuraj/blockcast-installer.git && \
-cd blockcast-installer && \
-chmod +x install_blockcast.sh && \
-./install_blockcast.sh
+git clone https://github.com/0xTuraj/Blockcast-Node.git && \
+cd Blockcast-Node && \
+chmod +x Blockcast.sh && \
+./Blockcast.sh
 ```
 
 ---
